@@ -148,7 +148,7 @@ This approach ensures the KPI updates automatically when filters or slicers chan
 
 Example:
 
-![Dashboard](dashboard.png)
+![Dashboard](dash.png)
 
 ---
 
