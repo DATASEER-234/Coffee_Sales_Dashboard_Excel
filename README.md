@@ -143,14 +143,8 @@ This approach ensures the KPI updates automatically when filters or slicers chan
 - KPI Design
 
 ## Dashboard Preview
-
-(Add dashboard screenshot here)
-
-Example:
-
 ![Dashboard](dash.png)
 
----
 
 ## Author
 
